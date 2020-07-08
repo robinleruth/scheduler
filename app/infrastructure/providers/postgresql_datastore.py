@@ -1,0 +1,2 @@
+class PostgresqlDatastore:
+    pass

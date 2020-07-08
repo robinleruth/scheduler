@@ -1,0 +1,2 @@
+class AbstractDAtaStore:
+    pass

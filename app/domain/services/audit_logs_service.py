@@ -1,0 +1,2 @@
+class AuditLOgsService:
+    pass
